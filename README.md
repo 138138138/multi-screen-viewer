@@ -48,5 +48,5 @@ pip install -U pyinstaller
 ### 3. Compile to exe
 
 ```
-pyinstaller -F main.spec
+pyinstaller -F main.py
 ```
