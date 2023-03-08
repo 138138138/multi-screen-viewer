@@ -12,7 +12,7 @@ To use the app,
 2. Place the same number of images in the `images/1` and `image/2` folder.
 3. Name them to 0001, 0002, etc. The display order of this program is by file name ascending, but it is better to name by numbers.
 4. Run the program. The program will display the images. Go previous/next, or start a slideshow.
-5. If the images are displaying in the wrong monitors, modify `useCustomMonitorConfig = no` to `useCustomMonitorConfig = yes`, then experiment with the `leftMonitorNo`/`rightMonitorNo`.
+5. If the images are displaying in the wrong monitors, modify `useCustomMonitorConfig = no` to `useCustomMonitorConfig = yes` in `config.ini`, then experiment with the `leftMonitorNo`/`rightMonitorNo`.
 
 # Build
 
