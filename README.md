@@ -1,4 +1,5 @@
-# **Multi-Screen Viewer**
+# Multi-Screen Viewer
+Play 2 images to 2 different screen at the same time
 
 # Introduction
 
