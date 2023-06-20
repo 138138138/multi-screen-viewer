@@ -15,6 +15,10 @@ To use the app,
 4. Run the program. The program will display the images. Go previous/next, or start a slideshow.
 5. If the images are displaying in the wrong monitors, modify `useCustomMonitorConfig = no` to `useCustomMonitorConfig = yes` in `config.ini`, then experiment with the `leftMonitorNo`/`rightMonitorNo`.
 
+# Releases
+
+Prebuilt binaries can be found on [Releases Page](https://github.com/138138138/multi-screen-viewer/releases).
+
 # Build
 
 ### 1. Make Virtual Env:
